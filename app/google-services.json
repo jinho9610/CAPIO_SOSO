@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079122870824",
+    "firebase_url": "https://soso-de0b5.firebaseio.com",
+    "project_id": "soso-de0b5",
+    "storage_bucket": "soso-de0b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079122870824:android:a40a0337a7293b35866b1d",
+        "android_client_info": {
+          "package_name": "com.example.soso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079122870824-h6pm81ti71d6hcg7acavj1lhod458mpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soso",
+            "certificate_hash": "ea4bc768e892c941b5cfad54495a07c106d80db6"
+          }
+        },
+        {
+          "client_id": "1079122870824-si4enseuscfnh0fjocd2ttla5pnu736v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfi1Mt_vMPDQJWlsNQc7w2qaukbXViYsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079122870824-si4enseuscfnh0fjocd2ttla5pnu736v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
